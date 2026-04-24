@@ -1,0 +1,8 @@
+RANG	NOM		SCORE
+=========================
+=========================
+1	LINAA		45
+2	MOUNIA		30
+3	LLOUU		28
+4	SELLEMM		25
+5	KAMARA		25
